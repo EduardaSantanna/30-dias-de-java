@@ -143,6 +143,6 @@ Repositório criado para documentar minha imersão de 30 dias na linguagem Java,
 - **O que aprendi:**
 
 ---
-     Mesmo que por 30 minutos, transforme cada dia em aprendizado constante! 
+     Mesmo que por 30 minutos transforme cada dia em aprendizado constante! 
      
 *Mantido por [Eduarda Santana](https://github.com)*
