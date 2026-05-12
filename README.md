@@ -3,9 +3,9 @@
 Repositório criado para documentar minha imersão de 30 dias na linguagem Java, focando em sair da "obesidade mental" teórica para a construção de projetos reais e preparação para o mercado de Back-end.
 
 ## 📌 Objetivos 
-∴ Dominar a sintaxe e os pilares da Orientação a Objetos.
-∴ Construir um portfólio com projetos Spring Boot.
-∴ Aplicar boas práticas de Engenharia de Software.
+• Dominar a sintaxe e os pilares da Orientação a Objetos.
+• Construir um portfólio com projetos Spring Boot.
+• Aplicar boas práticas de Engenharia de Software.
 
 ---
 
@@ -142,6 +142,7 @@ Repositório criado para documentar minha imersão de 30 dias na linguagem Java,
 - **Conteúdo:**
 - **O que aprendi:**
 
-
 ---
+     Não foram todos os dias mais servio para me "familiarizar" com alguns conceitos de Java. 
+     
 *Mantido por [Eduarda Santana](https://github.com)*
