@@ -45,9 +45,103 @@ Repositório criado para documentar minha imersão de 30 dias na linguagem Java,
 
 ---
 
-### Dia 07 
+### Dia 07 - comentários
+- **Conteúdo:** três diferentes formas de deixar um comentário em códigos.
+- **O que aprendi:** como e quando, deixar cometário no código.
+
+### Dia 08 - nada feito...😪
 - **Conteúdo:**
 - **O que aprendi:**
-  
+
+
+### Dia 09 -nada...
+- **Conteúdo:**
+- **O que aprendi:**
+
+### Dia 10 - Tipos primitivos
+- **Conteúdo:**
+- **O que aprendi:**
+
+### Dia 11 -
+- **Conteúdo:**
+- **O que aprendi:**
+
+### Dia 12 -
+- **Conteúdo:**
+- **O que aprendi:**
+
+### Dia 13 -
+- **Conteúdo:**
+- **O que aprendi:**
+
+### Dia 14 -
+- **Conteúdo:**
+- **O que aprendi:**
+
+### Dia 15 -
+- **Conteúdo:**
+- **O que aprendi:**
+
+### Dia 16 -
+- **Conteúdo:**
+- **O que aprendi:**
+
+### Dia 17 -
+- **Conteúdo:**
+- **O que aprendi:**
+
+### Dia 18 -
+- **Conteúdo:**
+- **O que aprendi:**
+
+### Dia 19 -
+- **Conteúdo:**
+- **O que aprendi:**
+
+### Dia 20 -
+- **Conteúdo:**
+- **O que aprendi:**
+
+### Dia 21 -
+- **Conteúdo:**
+- **O que aprendi:**
+
+### Dia 22 -
+- **Conteúdo:**
+- **O que aprendi:**
+
+### Dia 23 -
+- **Conteúdo:**
+- **O que aprendi:**
+
+### Dia 24 -
+- **Conteúdo:**
+- **O que aprendi:**
+
+### Dia 25 -
+- **Conteúdo:**
+- **O que aprendi:**
+
+### Dia 26 -
+- **Conteúdo:**
+- **O que aprendi:**
+
+### Dia 27 -
+- **Conteúdo:**
+- **O que aprendi:**
+
+### Dia 28 -
+- **Conteúdo:**
+- **O que aprendi:**
+
+### Dia 29 -
+- **Conteúdo:**
+- **O que aprendi:**
+
+### Dia 30 -
+- **Conteúdo:**
+- **O que aprendi:**
+
+
 ---
 *Mantido por [Eduarda Santana](https://github.com)*
