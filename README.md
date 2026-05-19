@@ -33,7 +33,7 @@ Repositório criado para documentar minha imersão de 30 dias na linguagem Java,
 
 ---
 
-### Dia 05 - nada feito😞😞😞
+### Dia 05 - 
 - **Conteúdo:**
 - **O que aprendi:
   
@@ -49,12 +49,12 @@ Repositório criado para documentar minha imersão de 30 dias na linguagem Java,
 - **Conteúdo:** três diferentes formas de deixar um comentário em códigos.
 - **O que aprendi:** como e quando, deixar cometário no código.
 
-### Dia 08 - nada feito...😪
+### Dia 08 - 
 - **Conteúdo:**
 - **O que aprendi:**
 
 
-### Dia 09 -nada...
+### Dia 09 - 
 - **Conteúdo:**
 - **O que aprendi:**
 
