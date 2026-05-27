@@ -1,6 +1,6 @@
-# 🚀 Jornada 30 Dias de Java: Da Teoria à Prática
+# 🚀 Jornada de Java: Da Teoria à Prática
 
-Repositório criado para documentar minha imersão de 30 dias na linguagem Java, focando em sair da "obesidade mental" teórica para a construção de projetos reais e preparação para o mercado de Back-end.
+Repositório criado para documentar minha imersão na linguagem Java, focando em sair da "obesidade mental" teórica para a construção de projetos reais e preparação para o mercado de Back-end.
 
 ## 📌 Objetivos 
 - Dominar a sintaxe e os pilares da Orientação a Objetos.
