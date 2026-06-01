@@ -9,9 +9,9 @@ Repositório criado para documentar minha imersão na linguagem Java, focando em
 
 ---
 
-## 📅 Diário de Bordo
+## 📅 Diário de Bordo - Inicio (02/05/2026) 
 
-### Dia 01 (02/05/2026) - O Início e a Base
+### Dia 01 - O Início e a Base
 - **Conteúdo:** História do Java, instalação do ambiente (JDK e IntelliJ).
 - **O que aprendi:** Entendi o papel da **JVM** (Máquina Virtual), como o **Bytecode** permite que o Java seja portável e a diferença entre o kit de desenvolvimento (JDK) e o de execução (JRE).
 
@@ -49,16 +49,16 @@ Repositório criado para documentar minha imersão na linguagem Java, focando em
 - **Conteúdo:** três diferentes formas de deixar um comentário em códigos.
 - **O que aprendi:** como e quando, deixar cometário no código.
 
-### Dia 08 - 
-- **Conteúdo:**
-- **O que aprendi:**
+### Dia 08 - Tipos primitivos
+- **Conteúdo:** são 8 tipos primitivos, vi um hoje
+- **O que aprendi:** aprendi a usar o Int, usei um print para mostra uma idade no terminal.
 
 
 ### Dia 09 - 
 - **Conteúdo:**
 - **O que aprendi:**
 
-### Dia 10 - Tipos primitivos
+### Dia 10 - 
 - **Conteúdo:**
 - **O que aprendi:**
 
