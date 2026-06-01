@@ -9,7 +9,7 @@ Repositório criado para documentar minha imersão na linguagem Java, focando em
 
 ---
 
-## 📅 Diário de Bordo - Inicio (02/05/2026) 
+## 📅 Diário de Bordo - Inicio (02/05/2026) Término (...)
 
 ### Dia 01 - O Início e a Base
 - **Conteúdo:** História do Java, instalação do ambiente (JDK e IntelliJ).
