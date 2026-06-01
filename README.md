@@ -35,13 +35,13 @@ Repositório criado para documentar minha imersão na linguagem Java, focando em
 
 ### Dia 05 - 
 - **Conteúdo:**
-- **O que aprendi:
+- **O que aprendi:**
   
 ---
 
 ### Dia 06 - organização de códigos em pacotes
 - **Conteúdo:** seguindo as aulas do maratona Java
-- **O que aprendi: a organizar cada arquivo de um projeto em pastas e pacotes usando o IntelliJ.
+- **O que aprendi:** a organizar cada arquivo de um projeto em pastas e pacotes usando o IntelliJ.
 
 ---
 
