@@ -1,4 +1,4 @@
-# 🚀 Jornada de Java: Da Teoria à Prática
+# 🚀 Jornada Java: Da Teoria à Prática
 
 Repositório criado para documentar minha imersão na linguagem Java, focando em sair da "obesidade mental" teórica para a construção de projetos reais e preparação para o mercado de Back-end.
 
